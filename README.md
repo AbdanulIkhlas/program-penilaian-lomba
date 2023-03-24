@@ -1,2 +1,2 @@
-# program-penilaian-lomba
-Latihan
+# Latihan Membuat Program Penilaian
+Menggunakan java swing dan GUI
